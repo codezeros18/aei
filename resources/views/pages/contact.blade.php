@@ -42,7 +42,7 @@
                 </div>
             </div>
         </div>
-        <form class="w-full mt-10">
+        {{-- <form class="w-full mt-10">
             <div class="flex flex-wrap flex-col lg:flex-row -mx-3 mb-2 pt-4">
                 <div class="w-full lg:w-1/3 px-3 mb-5 lg:mb-6">
                     <input class="appearance-none block w-full border-2 text-gray-700 rounded py-3 px-4 leading-tight focus:outline-none focus:bg-white" id="grid-phone-num" type="text" placeholder="Your name">
@@ -62,7 +62,7 @@
             <div class="mt-4 mb-20 px-3 text-end">
                 <a href="eng" class="rounded-sm bg-p-600 px-14 py-4 text-[12px] font-bold hover:text-black hover:bg-white bg-orangenav text-white transition delay-50 duration-300">SUBMIT</a>
             </div>
-        </form>
+        </form> --}}
 </div>
 
 @endsection
